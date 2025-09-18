@@ -11,10 +11,10 @@ The core methodology is centred on a continuous feedback loop and a deep-seated 
 The core of this methodology is a series of somewhat obvious key stages, each designed to mitigate risk and accelerate time-to-value:
 
 ### 1. Ideation & Discovery  
-The fun part: the journey begins with a collaborative workshop to define a clear problem statement and a shared vision. This is a crucial phase for developing *user empathy* and aligning all stakeholders on the business opportunity. The objective is to identify a hypothesis that can be tested in the subsequent stages. Yep, loads of post-its.
+The fun part: the journey begins with a collaborative workshop to define a clear problem statement and a shared vision. This is a crucial phase for developing *user empathy* and aligning all stakeholders on the business opportunity. The objective is to identify a hypothesis that can be tested in the subsequent stages. Yep, loads of post-it notes.
 
 ### 2. Minimum Viable Product (MVP) Definition  
-Following ideation, we define the Minimum Viable Product. This is not merely a stripped-down version of the final solution, but a highly focused, functional application designed to test our core hypothesis and validate key assumptions. This stage is critical for gaining early, on-site validation from end-users.
+Following ideation, we define the Minimum Viable Product. This is not merely a stripped-down version of the final product, but a highly focused, functional application designed to test our core hypothesis and validate key assumptions. This stage is critical for gaining early, on-site validation from end-users. 
 
 ### 3. Iterative Development & Refinement  
 The MVP is built using agile and DevOps practices, with a strong emphasis on continuous integration and delivery. We work in sprints, with a prioritised backlog of user stories. Regular check-ins and on-site validations ensure we are on track and can quickly adapt to new feedback.
