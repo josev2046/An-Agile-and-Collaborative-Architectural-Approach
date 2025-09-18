@@ -1,0 +1,36 @@
+@startuml
+participant "Client" as C
+participant "Architect" as A
+participant "Product Owner" as PO
+participant "Technical Team" as TT
+
+group Design Thinking Workshop (DTW)
+    C -> A: Present business challenge
+    A -> C: Facilitate ideation session
+    A -> A: Identify hypothesis & risks
+    A -> PO: Define initial MVP scope
+end
+
+group Architecture Workshop (Arch)
+    A -> A: Perform technical deep-dive
+    A -> C: Discuss architectural risks
+    A -> PO: Prioritise high-risk user stories
+end
+
+group MVP Build & Agile Sprints
+    loop Daily Standups
+        PO -> TT: Prioritise user story
+        TT -> TT: Develop & test story
+    end
+    C -> A: Provide real-time feedback
+    A -> TT: Refine technical implementation
+    A -> PO: Present progress
+end
+
+group On-site Validation
+    TT -> C: Deliver features
+    C -> C: Test MVP functionality
+    C -> PO: Provide user feedback
+    PO -> A: Communicate feedback & new requirements
+end
+@enduml
