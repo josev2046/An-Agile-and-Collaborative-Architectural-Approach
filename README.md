@@ -12,8 +12,8 @@ The core philosophy is that the most successful solutions are co-created with th
 
 Our process is centred on four key stages, each designed to mitigate risk and get to a valuable outcome faster.
 
-### 1. Ideation & Discovery: Getting to the Heart of the Matter  
-The fun part. The journey begins with a collaborative workshop to define a clear problem statement and a shared vision. This phase is crucial for developing *user empathy* and getting all stakeholders aligned on the opportunity. The objective is to identify a core hypothesis we can test. And yes, this usually involves a mountain of Post-it notes.
+### 1. Ideation & Discovery: The fun part  
+The journey begins with a collaborative workshop to define a clear problem statement and a shared vision. This phase is crucial for developing *user empathy* and getting all stakeholders aligned on the opportunity. The objective is to identify a core hypothesis we can test. And yes, this usually involves a mountain of Post-it notes.
 
 At this stage, it often makes sense to cobble up a **rapid prototype** — even a rough one — to bring ideas to life, align expectations, and quickly check if the proposed solution resonates.
 
