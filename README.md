@@ -4,10 +4,6 @@ Am often asked about my approach building successful prototypes with the blessin
 
 The core methodology is centred on a continuous feedback loop and a deep-seated belief that the most successful solutions are co-created with the client. The process is not about defining a rigid blueprint at the outset, but rather about establishing a flexible framework that can absorb new information and pivot as required. This reduces risk and ensures that the final product is not only technically robust but also genuinely addresses the client's most pressing business challenges.
 
----
-
-## Key Stages in Practice
-
 The core of this methodology is a series of somewhat obvious key stages, each designed to mitigate risk and accelerate time-to-value:
 
 ### 1. Ideation & Discovery  
@@ -24,14 +20,11 @@ The MVP is built using agile and DevOps practices, with a strong emphasis on con
 ### 4. Harden, Scale, and Operate  
 Once the MVP has been validated, we shift our focus to hardening the solution for production. This involves scaling the architecture, integrating with existing systems, and ensuring the solution is resilient and secure for long-term operation.
 
----
-
 ## A Typical Architectural Flow
 
 To illustrate the collaborative nature of this process, consider this as a typical engagement sequence:
 
 <img width="882" height="764" alt="image" src="https://github.com/user-attachments/assets/f5b69420-0f36-4d08-8eae-db6afa580841" />
-
 
 
 By adhering to this agile and user-centric model, we ensure that the architectural vision is not only sound but also intrinsically tied to the practical needs of the business and its users. It is an approach that values collaboration, embraces change, and consistently delivers tangible value.
