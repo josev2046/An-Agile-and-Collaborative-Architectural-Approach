@@ -11,7 +11,9 @@ The core methodology is centred on a continuous feedback loop and a deep-seated 
 The core of this methodology is a series of somewhat obvious key stages, each designed to mitigate risk and accelerate time-to-value:
 
 ### 1. Ideation & Discovery  
-The fun part: the journey begins with a collaborative workshop to define a clear problem statement and a shared vision. This is a crucial phase for developing *user empathy* and aligning all stakeholders on the business opportunity. The objective is to identify a hypothesis that can be tested in the subsequent stages. Yep, loads of post-it notes.
+The fun part: the journey begins with a collaborative workshop to define a clear problem statement and a shared vision. This is a crucial phase for developing *user empathy* and aligning all stakeholders on the business opportunity. The objective is to identify a hypothesis that can be tested in the subsequent stages. Yep, loads of post-it notes.  
+
+At this stage, it often makes sense to cobble together a **rapid prototype** — even something rough — to visualise ideas, align expectations, and quickly validate whether the problem and solution hypothesis resonate with stakeholders.
 
 ### 2. Minimum Viable Product (MVP) Definition  
 Following ideation, we define the Minimum Viable Product. This is not merely a stripped-down version of the final product, but a highly focused, functional application designed to test our core hypothesis and validate key assumptions. This stage is critical for gaining early, on-site validation from end-users. 
