@@ -1,5 +1,7 @@
 # Prototyping in Practice: An Agile and Collaborative Approach
 
+[![DOI](https://zenodo.org/badge/1059708089.svg)](https://doi.org/10.5281/zenodo.17155966)
+
 When was the last time you saw a prototype win over a client — not because it was perfect, but because it was just enough to prove the idea?
 
 I’m often asked about my approach to building successful prototypes that get the client’s blessing. Drawing on my time at IBM using their Cloud Garage methodology, I’ve settled on a collaborative way of working that prioritises one simple thing: the rapid, iterative delivery of real value. It’s an approach that ensures the solution stays aligned with a client’s evolving business needs and the technical realities on the ground.
